@@ -6,10 +6,6 @@
 # URL: https://github.com/evmaksimenko/reporeport
 # For license information, see LICENSE.TXT
 
-"""
-- нужен ридми с описанием использования и установки
-- чтобы это была прям как реальная библиотека) и файл с зависимостями. И вообще оформить это лучше как библиотеку, отдельный репозиторий, а не урок)
-"""
 import ast
 import os
 import collections
