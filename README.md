@@ -4,11 +4,11 @@
 
 ## Установка
 
-Скачайте скомпонованный файл библиотеки dist/reporeport-0.1.tar.gz 
+Скачайте скомпонованный файл библиотеки в закладке Release -> reporeport-0.1.tar.gz 
 
 Для установки библиотеки выполните следующую команду
 
-pip3 install RepoReporter-0.1.tar.gz
+pip3 install reporeport-0.1.tar.gz
 
 ## Использование
 
